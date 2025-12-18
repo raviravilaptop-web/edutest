@@ -1,4 +1,4 @@
-
+<html>
 <link rel="stylesheet" href="style.css">
 <div class="glass-card">
     <h1>contacts of the Project</h1>
@@ -10,3 +10,5 @@
     </div>
 
 </div>
+
+</html>
